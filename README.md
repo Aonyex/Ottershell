@@ -1,0 +1,2 @@
+# Ottershell
+Ottercoin Network Protocol
